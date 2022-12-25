@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30140a1b.css",
+    "main.js": "/static/js/main.fcf6d182.js",
+    "static/media/travel.png": "/static/media/travel.994fd97b477ba60fa4a7.png",
+    "static/media/introduction-image.png": "/static/media/introduction-image.690fc4d7f265a10608ed.png",
+    "static/media/bike.jpeg": "/static/media/bike.815ca4afaf73bf2da79b.jpeg",
+    "static/media/mooofarm.png": "/static/media/mooofarm.a1f7418e5df6c2211b00.png",
+    "static/media/gsoc.png": "/static/media/gsoc.90ace13c395aac2fa8c3.png",
+    "static/media/computer.jpeg": "/static/media/computer.b36f156ea492870c76e5.jpeg",
+    "static/media/newel.webp": "/static/media/newel.e8824af433355a11d79f.webp",
+    "static/media/hubble.png": "/static/media/hubble.021545e9652aea3f7c75.png",
+    "static/media/zulip.png": "/static/media/zulip.296d42d5580d05180eaf.png",
+    "index.html": "/index.html",
+    "main.30140a1b.css.map": "/static/css/main.30140a1b.css.map",
+    "main.fcf6d182.js.map": "/static/js/main.fcf6d182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30140a1b.css",
+    "static/js/main.fcf6d182.js"
+  ]
+}
